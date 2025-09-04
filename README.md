@@ -6,8 +6,9 @@
 
 <!-- Banner animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Sedang+belajar+HTML%2C+JavaScript+%26+Python;Ingin+jadi+Developer+Website+%26+Aplikasi;Code+%7C+Learn+%7C+Share" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hai+salken+aku+Yoga;Ini+adalah+account+GitHub+ku;Selamat+datang+dan+happy+coding!+" alt="Typing SVG" />
 </p>
+
 
 ---
 
