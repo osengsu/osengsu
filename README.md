@@ -1,29 +1,28 @@
 <!-- Header -->
-<h1 align="center">Halo 👋, Saya Yoga Putra</h1>
+<h1 align="center">👋 Halo, Saya Yoga Putra</h1>
 <h3 align="center">💻 Pemula di Dunia Pemrograman | Web Developer Enthusiast</h3>
 
 ---
 
 <!-- Banner animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Selamat+Datang;Salken+aku+Yoga;Enjoy!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hai,+salken+aku+Yoga;Ini+adalah+account+GitHub+ku;Selamat+datang+dan+happy+coding!" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ### 🚀 Bahasa yang Sedang Saya Kuasai
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osengsu&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osengsu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
 </p>
 
 ---
@@ -38,6 +37,6 @@
 
 ### 📫 Hubungi Saya
 <p align="center">
-  <a href="mailto:yogamc291@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://osengsu.github.io/yosite/porto.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:yogamc291@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://osengsu.github.io/yosite/porto.html"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
