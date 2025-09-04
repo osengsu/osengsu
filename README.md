@@ -1,4 +1,4 @@
-# Halo 👋, saya [Yoga Putra]
+# Halo 👋, saya Yoga Putra
 
 🔰 **Pemula di Dunia Pemrograman**  
 💻 Sedang belajar: **HTML**, **JavaScript**, dan **Python**  
