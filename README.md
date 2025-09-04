@@ -6,7 +6,7 @@
 
 <!-- Banner animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hai+salken+aku+Yoga;Ini+adalah+account+GitHub+ku;Selamat+datang+dan+happy+coding!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Selamat+Datang;Salken+aku+Yoga;Enjoy!+" alt="Typing SVG" />
 </p>
 
 
