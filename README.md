@@ -22,7 +22,6 @@
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osengsu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osengsu&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
