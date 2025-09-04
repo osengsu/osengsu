@@ -6,18 +6,15 @@
 
 <!-- Banner animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hai,+salken+aku+Yoga;Ini+adalah+account+GitHub+ku;Selamat+datang+dan+happy+coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamat+Datang;Salken+aku+Yoga+Putra;Enjoy!!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Bahasa yang Sedang Saya Kuasai
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
 ---
 
 ### 📊 Statistik GitHub
@@ -26,7 +23,6 @@
 </p>
 
 ---
-
 ### 🎯 Rencana Belajar
 - ✅ HTML & CSS dasar  
 - ✅ JavaScript dasar  
