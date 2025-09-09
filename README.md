@@ -16,11 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osengsu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
-</p>
-
 ---
 
 ### 📫 Hubungi Saya
