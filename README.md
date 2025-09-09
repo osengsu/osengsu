@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Halo, Saya Yoga Putra</h1>
-<h3 align="center">💻 Pemula di Dunia Pemrograman | Web Developer Enthusiast</h3>
+<h3 align="center">💻 Backend Developer</h3>
 
 ---
 
