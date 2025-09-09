@@ -22,13 +22,6 @@
 </p>
 
 ---
-### 🎯 Rencana Belajar
-- ✅ HTML & CSS dasar  
-- ✅ JavaScript dasar  
-- 🔄 Python dasar (masih jalan)  
-- 🔜 Framework web (React / Flask / Django)  
-
----
 
 ### 📫 Hubungi Saya
 <p align="center">
